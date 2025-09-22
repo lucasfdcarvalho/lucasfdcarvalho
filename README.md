@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o Lucas Freitas de Carvalho
 
-🎓 **Estudante de Sistemas de Informação** no Centro Universitário da Fundação Educacional de Barretos – UNIFEB  
+🎓 **Estudante de Sistemas de Informação** no Centro Universitário da Fundação Educacional de Barretos – UNIFEB
+🎓 **Técnico em Informática para Internet** no Centro de Profissionalização e Educação Técnica – CPET
 💡 Em busca da primeira oportunidade em **desenvolvimento de software**, infraestrutura ou suporte técnico  
 🌱 Atualmente no 4º semestre e focado em me aperfeiçoar para seguir carreira como **FullStack Developer**  
 
